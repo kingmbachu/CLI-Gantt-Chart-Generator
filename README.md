@@ -19,5 +19,6 @@ Clone the repository and run the executable file `main`:
 
 ```bash
 git clone https://github.com/kingmbachu/CLI-Gantt-Chart-Generator.git
-cd CLI-Gantt-Chart-Generator chmod +x main
+cd CLI-Gantt-Chart-Generator
+chmod +x main
 ./main
