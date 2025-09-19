@@ -13,9 +13,9 @@
 
 ## Installation
 
-Clone the repository and compile with `gcc`:
+Clone the repository and run thre executable with `main`:
 
 ```bash
-git clone https://github.com/yourusername/gantt-chart-generator.git
-cd gantt-chart-generator
-gcc gantt.c -o gantt
+git clone https://github.com/kingmbachu.git
+cd CLI-Gantt-Chart-Generator
+./main
