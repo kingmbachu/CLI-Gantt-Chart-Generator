@@ -13,7 +13,7 @@
 
 ## Installation
 
-Clone the repository and run thre executable with `main`:
+Clone the repository and run the executable file `main`:
 
 ```bash
 git clone https://github.com/kingmbachu.git
