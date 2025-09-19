@@ -1,0 +1,1 @@
+Developed a command-line Gantt Chart Generator in C to visualize project timelines effectively. Implemented data structures with dynamic memory allocation to manage tasks, durations, and dependencies. Designed sorting and display logic for clear tracking in the terminal. This project strengthened my problem-solving skills and deepened my understanding of C programming.
