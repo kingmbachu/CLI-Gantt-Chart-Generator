@@ -1,4 +1,4 @@
-# Gantt Chart Generator (C)
+# CLI Gantt Chart Generator (C)
 
 A command-line Gantt chart generator written in C. 
 
